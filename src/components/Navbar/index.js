@@ -32,7 +32,7 @@ const JoinBtn = {
 const Content = styled('div')`
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 `;
 
 const Logos = styled('div')`
